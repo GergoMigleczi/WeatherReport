@@ -1,0 +1,13 @@
+/Users/migleczigergo/Projects/WheaterReport/bin/Debug/netcoreapp3.1/WheaterReport.deps.json
+/Users/migleczigergo/Projects/WheaterReport/bin/Debug/netcoreapp3.1/WheaterReport.runtimeconfig.json
+/Users/migleczigergo/Projects/WheaterReport/bin/Debug/netcoreapp3.1/WheaterReport.runtimeconfig.dev.json
+/Users/migleczigergo/Projects/WheaterReport/bin/Debug/netcoreapp3.1/WheaterReport.dll
+/Users/migleczigergo/Projects/WheaterReport/bin/Debug/netcoreapp3.1/WheaterReport.pdb
+/Users/migleczigergo/Projects/WheaterReport/obj/Debug/netcoreapp3.1/WheaterReport.csproj.AssemblyReference.cache
+/Users/migleczigergo/Projects/WheaterReport/obj/Debug/netcoreapp3.1/WheaterReport.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migleczigergo/Projects/WheaterReport/obj/Debug/netcoreapp3.1/WheaterReport.AssemblyInfoInputs.cache
+/Users/migleczigergo/Projects/WheaterReport/obj/Debug/netcoreapp3.1/WheaterReport.AssemblyInfo.cs
+/Users/migleczigergo/Projects/WheaterReport/obj/Debug/netcoreapp3.1/WheaterReport.csproj.CoreCompileInputs.cache
+/Users/migleczigergo/Projects/WheaterReport/obj/Debug/netcoreapp3.1/WheaterReport.dll
+/Users/migleczigergo/Projects/WheaterReport/obj/Debug/netcoreapp3.1/WheaterReport.pdb
+/Users/migleczigergo/Projects/WheaterReport/obj/Debug/netcoreapp3.1/WheaterReport.genruntimeconfig.cache
